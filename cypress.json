@@ -1,0 +1,12 @@
+{
+  
+  "defaultCommandTimeout": 10000,
+  "projectId": "7b98fh",
+
+
+  "env": {
+    "login_url": "https://tw16-bdl-ins2/Bloodstream/login",
+    "products_url": "/products"
+  }
+}
+

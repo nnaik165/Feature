@@ -1,0 +1,40 @@
+{
+  "Username": "IM_ADMIN",
+  "Prefix":"SHA",
+  "Sample":"ABC53",
+  "Sample1":"91",
+  "Sample4":"94",
+  "TestPageAddNote":"ABC1234!@#$%^",
+  "DonationPageAddFlagSlideout":"QNSFlag Added 1234!@#$%",
+   "DonationIDPPrepSearch":"MAT71",
+   "DonationIDPTestSearch":"",
+
+  "Code":"SHA",
+  "Description":"My New CC",
+  "Assay":"COR",
+  "AssayDesc":"CoronaVirus",
+  "AssayDescUpdate":"Virus",
+  "AssayAbbr":"COR",
+  "lysatePrefix":"LYS00",
+  "masterPrefix":"MAS00",
+  "largePrefix":"LRG00",
+
+  "CriticalTime":"0",
+  "WarningTime":"35",
+  "SoonTime":"999",
+  "ErrorCriticalCount":"0",
+  "ErrorWarningCount":"0",
+
+  "PT_TubeID":"MAT1",
+  "PP_TubeID":"ABC41",
+  "PL":"STD15",
+   "STHr":"09",
+   "STMin":"00",
+   "ETHr":"02",
+   "ETMin":"00",
+   "ErrorSTHr":"10",
+   "ErrorSTMin":"00",
+   "ErrorETHr":"01",
+   "ErrorETMin":"00"
+
+}

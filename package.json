@@ -1,0 +1,18 @@
+{
+  "name": "cypressworkshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "run": "cypress run --headed --browser chrome --spec",
+    "record": "cypress run --record --key 48d9b120-2857-4e55-9b7d-34571173b9d4 --headed --browser chrome --spec"
+  },
+  "author": "Namita",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^1.5.0",
+    "cypress": "^6.5.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
